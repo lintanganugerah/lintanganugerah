@@ -3,8 +3,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FABD2F&width=435&lines=Halo!+I'm+Lintang+Anugerah+E;Fullstack+Develover;A+passionate+learner" alt="Typing SVG" /></a>
 
-<a href="https://wakatime.com/@18933d15-333d-4ace-943d-b34e777b7308"><img src="https://wakatime.com/badge/user/18933d15-333d-4ace-943d-b34e777b7308.svg" alt="Total time coded since Jun 26 2025" /></a>
-
 </div>
 
 ### 🌱 A Bit About Me
