@@ -1,7 +1,9 @@
 ## Hi there, Welcome to my Github! 👋
 <div align="left">
 
-<a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&left=true&vleft=true&width=435&lines=Halo%2C+I'm+Lintang+Anugerah+👋;I'm a Full-Stack+Web+Developer;Passionate Learner;Tech+explorer](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=fabd2f&left=true&vleft=true&width=435&lines=Halo%2C+I%27m+Lintang+Anugerah+%F0%9F%91%8B;I%27m%20a%20Full-Stack+Web+Developer;Passionate%20Learner;Tech+explorer)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FABD2F&width=435&lines=Halo!+I'm+Lintang+Anugerah+E;Fullstack+Develover;A+passionate+learner" alt="Typing SVG" /></a>
+
+<a href="https://wakatime.com/@18933d15-333d-4ace-943d-b34e777b7308"><img src="https://wakatime.com/badge/user/18933d15-333d-4ace-943d-b34e777b7308.svg" alt="Total time coded since Jun 26 2025" /></a>
 
 </div>
 
@@ -36,11 +38,15 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lintanganugerah&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Lintang's GitHub Stats" />
+    <img height="200" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lintanganugerah&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Lintang's GitHub Stats" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=lintanganugerah&theme=gruvbox&layout=compact" alt="Top Languages" />
+    <img height="195" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lintanganugerah&theme=gruvbox&layout=compact" alt="Top Languages" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lintanganugerah&theme=gruvbox" alt="Top Languages" />
   </a>
 </p>
 
