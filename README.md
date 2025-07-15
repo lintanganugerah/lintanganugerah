@@ -34,25 +34,9 @@
 
 ---
 
-### 📊 Statistic
+### ☕ Let's Collaborate!
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lintanganugerah&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Lintang's GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="195" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lintanganugerah&theme=gruvbox&layout=compact" alt="Top Languages" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lintanganugerah&theme=gruvbox" alt="Top Languages" />
-  </a>
-</p>
-
----
-
-### 🤝 Let's Connect!
+Have any cool project or ideas? Feel free to reach me!! I'm always excited to work together 💪
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lintanganugerah/" target="_blank">
@@ -62,10 +46,23 @@
 
 ---
 
-### ☕ Let's Collaborate!
+### 📊 Statistic
 
-Have any cool project or ideas? Feel free to reach me!! I'm always excited to work together 💪
 
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lintanganugerah&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Lintang's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-streak-stats">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=lintanganugerah&theme=gruvbox" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=lintanganugerah&theme=gruvbox&layout=compact" alt="Wakatime Stats" />
+  </a>
+</p>
 
 <!--
 https://github-readme-streak-stats.herokuapp.com/?user=lintanganugerah&theme=radical
