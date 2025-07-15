@@ -58,7 +58,7 @@ Have any cool project or ideas? Feel free to reach me!! I'm always excited to wo
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=lintanganugerah&theme=gruvbox&layout=compact" alt="Wakatime Stats" />
   </a>
