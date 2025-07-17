@@ -23,6 +23,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![PHP](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 
 #### 🌱 Currently Learning on:</strong>
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -38,7 +40,10 @@ Have any cool project or ideas? Feel free to reach me!! I'm always excited to wo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lintanganugerah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-lintanganugerah-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://lintang.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-lintang.dev-0A66C2?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
