@@ -61,6 +61,7 @@ Have any cool project or ideas? Feel free to reach me!! I'm always excited to wo
   </a>
 </p>
 
+<small>Stats From 26 Jun 2025:</small>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=lintanganugerah&theme=gruvbox&layout=compact" alt="Wakatime Stats" />
