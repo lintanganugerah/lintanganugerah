@@ -7,7 +7,7 @@
 
 ### 🌱 A Bit About Me
 - 🔭 Currently working on personal projects & hone my skills
-- 💡 Always exploring new tech stacks and modern best practices
+- 💡 Always eager to create something and learn something in line with modern best practices
 
 ---
 
@@ -61,7 +61,7 @@ Have any cool project or ideas? Feel free to reach me!! I'm always excited to wo
   </a>
 </p>
 
-<small>Stats From 26 Jun 2025:</small>
+<small>Statistics as of June 26, 2025:</small>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=lintanganugerah&theme=gruvbox&layout=compact" alt="Wakatime Stats" />
