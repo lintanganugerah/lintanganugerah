@@ -6,7 +6,7 @@
 </div>
 
 ### 🌱 A Bit About Me
-- 🔭 Currently working on personal projects & hone my skills
+- 🔭 Currently enrolled in the Dicoding Mobile Developer Bootcamp, Dibimbing Java Backend Bootcamp, and working on freelance projects.
 - 💡 Always eager to create something and learn something in line with modern best practices
 
 ---
